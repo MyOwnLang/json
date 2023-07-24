@@ -1,0 +1,65 @@
+{
+	"Document": [{
+		"@Id": "BDCC964A-F4C4-4BF2-88A8-5F9AF3479AAE",
+		"@DocumentType": "",
+		"@GlobalId": "MXAQHBAAAAAAAAAA",
+		"@FamilyId": "NXAQHBAAAAAAAAAA",
+		"@RevisionId": "MXAQHBAAAAAAAAAA",
+		"@IsCurrent": "true",
+		"@IsLogicallyDeleted": "false",
+		"@PublishDate": "1997-10-22 00:00:00",
+		"@PostedDate": "",
+		"@Has3DModel": "false",
+		"@HasBBACertificate": "false",
+		"FamilySortKey": "",
+		"MilitaryDocumentRoot": "",
+		"PublisherDocumentId": "33499",
+		"Organization": {
+			"@Author": "DANSK"
+		},
+		"Status": {
+			"Generic": {
+				"@Code": "INAC"
+			},
+			"Specific": {
+				"@Code": "WDRN"
+			}
+		},
+		"Domain": {
+			"@Code": "ORG",
+			"@Description": "A not-for-profit organization"
+		},
+		"Dates": {
+			"Date": [{
+					"@Value": "2018-08-03 12:20:43",
+					"@Precision": "D",
+					"@PrecisionName": "Date valid to day",
+					"@Sequence": 0,
+					"Name": "Date-Last updated by IHS"
+				},
+				{
+					"@Value": "2005-04-20 00:00:00",
+					"@Precision": "D",
+					"@PrecisionName": "Date valid to day",
+					"@Sequence": 0,
+					"Name": "Date-Last updated per publisher"
+				},
+				{
+					"@Value": "1997-10-22 00:00:00",
+					"@Precision": "D",
+					"@PrecisionName": "Date valid to day",
+					"@Sequence": 1,
+					"Name": "Date-Published"
+				},
+				{
+					"@Value": "2001-07-05 00:00:00",
+					"@Precision": "D",
+					"@PrecisionName": "Date valid to day",
+					"@Sequence": 1,
+					"Name": "Date-Withdrawn"
+				}
+			]
+		}
+
+	}]
+}
